@@ -8,7 +8,7 @@ $ pip install -r requirements.txt
 ### 1. modify image via change path
 In demo.py file, you can change the image, which need to be placed in `/images/` and change the path in the demo.py
 ```python
-imname = "./images/{image.jpg}"
+imname = "./images/{image_name}.{file type}"
 ```
 ### 2. Run the file
 Run `demo.py` file in terminal and the `saliency image` will be stored in `/output/`
