@@ -1,4 +1,4 @@
-# Using saliency map to image resize
+# Implement Patch-Based image warping with opencv and cplex
 ## Saliency calculation with python
 Code from [Graph-Based Visual saliency](https://github.com/shreelock/gbvs)
 ### 0. Setup environment
