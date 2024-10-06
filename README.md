@@ -1,5 +1,6 @@
 # Using saliency map to image resize
 ## Saliency calculation
+Code from [Graph-Based Visual saliency](https://github.com/shreelock/gbvs)
 ### 0. Setup environment
 ```c
 pip install -r requirements.txt
