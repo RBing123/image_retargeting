@@ -24,7 +24,8 @@ Paper from [Patch-Based Image Warping for Content-Aware Retargeting](http://grap
 * Cplex
 ### (a) install Opencv and Opencv_contrib
 Download [OpenCV 3.4.13](https://github.com/opencv/opencv/archive/3.4.13.zip)
-Downlodd [OpenCV_contrib 3.4.13](https://github.com/opencv/opencv_contrib/archive/3.4.13.zip)
+Download [OpenCV_contrib 3.4.13](https://github.com/opencv/opencv_contrib/archive/3.4.13.zip)
+Place the `Patch` file at the corresponding path, when cmake error occurs
 ### (b) install Cplex
 Download [cplex](https://academic.ibm.com/a2mt/downloads/data_science#/)
 ## 
