@@ -40,7 +40,7 @@ compile the cmake under **~/opencv/build/**
 ```pseudocode!
 $ make -j8
 ```
-When performing cmake earlier, the opencv4.pc configuration file has been generated. The installation path of this file is: ==/usr/local/lib/pkgconfig/opencv4.pc==
+When performing cmake earlier, the opencv4.pc configuration file has been generated. The installation path of this file is: **/usr/local/lib/pkgconfig/opencv4.pc**
  
 Use the command in the build directory to check
 ```pseudocode!
