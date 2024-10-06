@@ -81,4 +81,11 @@ $ pkg-config --libs opencv4
 ```
 ### (b) install Cplex
 Download [cplex](https://academic.ibm.com/a2mt/downloads/data_science#/)
-## 
+
+## Compile and Run
+Use cmake to compile file under `~/Patch-Based Image Warping for Content-Aware Retargeting/Patch-Based Image Warping for Content-Aware Retargeting`.
+```bash
+$ make
+$ ./output
+```
+
