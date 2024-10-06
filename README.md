@@ -32,11 +32,11 @@ cd to switch to the opencv directory, create a build folder, and switch to the b
 cd opencv/
 mkdir -p && cd build
 ```
-under ==~/opencv/build/== to build cmake
+under **~/opencv/build/** to build cmake
 ```cmake!
 cmake -D CMAKE_BUILD_TYPE=Release -D OPENCV_GENERATE_PKGCONFIG=ON -D WITH_FFMPEG=ON .. 
 ```
-compile the cmake under ==~/opencv/build/==
+compile the cmake under **~/opencv/build/**
 ```pseudocode!
 $ make -j8
 ```
