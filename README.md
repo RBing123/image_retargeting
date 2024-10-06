@@ -6,7 +6,7 @@ Code from [Graph-Based Visual saliency](https://github.com/shreelock/gbvs)
 pip install -r requirements.txt
 ```
 ### 1. modify image via change path
-In demo.py file, you can change the image, which 
+In demo.py file, you can change the image, which need to be placed in `/images/` and change the path in the demo.py
 ```python
 imname = "./images/{image.jpg}"
 ```
