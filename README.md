@@ -1,5 +1,5 @@
 # Using saliency map to image resize
-## Saliency calculation
+## Saliency calculation with python
 Code from [Graph-Based Visual saliency](https://github.com/shreelock/gbvs)
 ### 0. Setup environment
 ```shell
@@ -26,3 +26,5 @@ Paper from [Patch-Based Image Warping for Content-Aware Retargeting](http://grap
 Download [OpenCV 3.4.13](https://github.com/opencv/opencv/archive/3.4.13.zip)
 Downlodd [OpenCV_contrib 3.4.13](https://github.com/opencv/opencv_contrib/archive/3.4.13.zip)
 ### (b) install Cplex
+Download [cplex](https://academic.ibm.com/a2mt/downloads/data_science#/)
+## 
