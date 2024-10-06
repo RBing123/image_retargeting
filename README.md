@@ -11,7 +11,7 @@ imname = "./images/{image.jpg}"
 ```
 ### 2. Run the file
 Run `demo.py` file in terminal and the `saliency image` will be stored in `/output/`
-```python
+```bash
 $ python demo.py
 ```
 
