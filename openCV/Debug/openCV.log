@@ -1,7 +1,0 @@
-﻿main.obj : error LNK2019: 在函式 "public: __thiscall cv::Mat::~Mat(void)" (??1Mat@cv@@QAE@XZ)_main 中參考了無法解析的外部符號
-main.obj : error LNK2019: 在函式 "public: bool __thiscall cv::Mat::empty(void)const " (?empty@Mat@cv@@QBE_NXZ)_main 中參考了無法解析的外部符號
-main.obj : error LNK2019: 在函式 "class cv::Mat __cdecl cv::imread(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int)" (?imread@cv@@YA?AVMat@1@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z)_main 中參考了無法解析的外部符號
-main.obj : error LNK2019: 在函式 "int __cdecl cv::waitKey(int)" (?waitKey@cv@@YAHH@Z)_main 中參考了無法解析的外部符號
-main.obj : error LNK2019: 在函式 "void __cdecl cv::imshow(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class cv::debug_build_guard::_InputArray const &)" (?imshow@cv@@YAXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABV_InputArray@debug_build_guard@1@@Z)_main 中參考了無法解析的外部符號
-C:\Users\User\Desktop\opencv\build\x64\vc16\lib\opencv_world490d.lib : warning LNK4272: 程式庫電腦類型 'x64' 與目標電腦類型 'x86' 發生衝突
-C:\Users\User\source\repos\openCV\Debug\openCV.exe : fatal error LNK1120: 5 個無法解析的外部符號
