@@ -16,3 +16,13 @@ Run `demo.py` file in terminal and the `saliency image` will be stored in `/outp
 $ python demo.py
 ```
 
+## Optimization
+Paper from [Patch-Based Image Warping for Content-Aware Retargeting](http://graphics.csie.ncku.edu.tw/Tony/papers/IEEE_Multimedia_resizing_2013_Feb.pdf)
+## 0. Setup environment
+* Ubuntu 22.04
+* OpenCV and OpenCV_contrib
+* Cplex
+### (a) install Opencv and Opencv_contrib
+Download [OpenCV 3.4.13](https://github.com/opencv/opencv/archive/3.4.13.zip)
+Downlodd [OpenCV_contrib 3.4.13](https://github.com/opencv/opencv_contrib/archive/3.4.13.zip)
+### (b) install Cplex
