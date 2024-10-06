@@ -2,7 +2,7 @@
 ## Saliency calculation
 Code from [Graph-Based Visual saliency](https://github.com/shreelock/gbvs)
 ### 0. Setup environment
-```c
+```bash
 pip install -r requirements.txt
 ```
 ### 1. modify image via change path
