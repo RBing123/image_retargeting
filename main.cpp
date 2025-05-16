@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  Patch-based Image Warping for Content-aware Retargeting
-//
-//  Created by 陳柏志 on 2021/1/30.
-//
-
 #include "main.h"
 #include <opencv2/saliency.hpp>
 //cv::Scalar hsv_to_rgb(cv::Scalar c) {
